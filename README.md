@@ -32,6 +32,6 @@ Exo 3 : avec la requête proposée on obtient `stock: { quantity: 8 }`, `reserve
 - `mongo/cluster` : replica set + change stream (exemple du cours)
 
 ## Valkey
-- `valkey/structures` : choisir une structure (exercice écrit)
-- `valkey/exo1` : Pub/Sub
-- `valkey/exo2` : Stream
+- `valkey/exo1` : choisir une structure (String, Hash, List, Set, Sorted Set, cache JSON)
+- `valkey/exo2` : Pub/Sub
+- `valkey/exo3` : Stream
